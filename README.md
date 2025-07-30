@@ -1,2 +1,2 @@
 # My-Portfolio
-Portfolio sing HTML, CSS, javascript
+Portfolio using HTML, CSS, javascript
